@@ -17,8 +17,8 @@ i18n
       wait: true
     },
     resources: resources,
-    lng: "en",
-    fallbackLng: "en",
+    lng: "zh_tw",
+    fallbackLng: "zh_tw",
     debug: false,
 
     // have a common namespace used around the full app

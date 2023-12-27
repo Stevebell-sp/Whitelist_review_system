@@ -1,0 +1,30 @@
+{
+  "Title": "控制面板",
+  "Chart": {
+    "Title": "新的申請",
+    "Count": "數量"
+  },
+  "Stats": {
+    "Pending": "待審覈的申請",
+    "Approved": "通過的申請",
+    "Denied": "被拒絕的申請",
+    "ResponseTime": "平均處理時間"
+  },
+  "Table": {
+    "OperationErrMsg": "伺服器內部錯誤",
+    "ApproveTooltip": "批準",
+    "DenyTooltip": "拒絕",
+    "Note": "管理員備註: ",
+    "ApplicationText": "申請資訊: ",
+    "AllRequests": "所有申請",
+    "ID": "ID",
+    "Username": "使用者名稱",
+    "Email": "電子郵箱",
+    "Submitted": "申請提交時間",
+    "Status": "狀態",
+    "Processed": "申請處理時間",
+    "Admin": "處理者",
+    "Assignees": "委任處理人員",
+    "Actions": "執行操作"
+  }
+}

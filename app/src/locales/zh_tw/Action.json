@@ -1,0 +1,17 @@
+{
+  "Title": "申請者資訊概要",
+  "Gender": "性別",
+  "Age": "年齡",
+  "Status": "申請狀態",
+  "ApplicationText": "申請資訊",
+  "Submitted": "申請提交於",
+  "NotePlaceHolder": "管理員可以在此處新增備註",
+  "Approve": "通過",
+  "Deny": "拒絕",
+  "FulfilledMsg": "這個申請已經完成審覈流程. 十分感謝！",
+  "NoteTitle": "伺服器管理員須知： ",
+  "NoteContent": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "CompletedMsg": "提交成功。謝謝！",
+  "InternalErrMsg": "伺服器內部錯誤。無法提交請求，請稍後重試。",
+  "InvalidTokenErrMsg": "驗證失敗，請不要改動郵件中的鏈接。"
+}
